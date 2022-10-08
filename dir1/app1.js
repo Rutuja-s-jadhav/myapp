@@ -1,1 +1,1 @@
-console.long(123);
+console.long
